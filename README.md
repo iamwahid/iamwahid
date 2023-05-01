@@ -1,4 +1,4 @@
-### Hi 👋, Iam Wahid is here
+### Hi 👋, Niam is here
 [![Iamwahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamwahid)](https://github.com/anuraghazra/github-readme-stats)
 
 
